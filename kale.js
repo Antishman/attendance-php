@@ -34,4 +34,4 @@ let newGame = document.getElementById("newGame");
       let userLetter = userLetterInput.value.toUpperCase();
       let placeholderP = document.getElementById("placeholderP");
       let warningText = document.getElementById("warningText");
-      let alreadyGuessed =
+      let alreadyGuessed = mmm
